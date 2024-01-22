@@ -2,7 +2,7 @@
 
 Список последних объявлений с API Bybit
 
-<img src="/images/Screenshot.png" align="right"/>
+<img src="/images/Screenshot.png" align="right" width="320"/>
 
 ## Tech stack
 - Minimum SDK level 33
