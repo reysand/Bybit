@@ -15,4 +15,4 @@ List of recent announcements from the Bybit API
 - Ktor - HTTP client
 
 ## API
-App using that [Bybit API](https://api.bybit.com/v5/announcements/index?locale=en-US&limit=10).
+App using the [Bybit API](https://api.bybit.com/v5/announcements/index?locale=en-US&limit=10).
