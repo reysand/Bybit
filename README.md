@@ -1,6 +1,6 @@
 # Bybit
 
-Список последних объявлений с API Bybit
+List of recent announcements from the Bybit API
 
 <img src="/images/Screenshot.png" align="right" width="320"/>
 
@@ -13,3 +13,6 @@
 - Architecture
     - MVVM Architecture (View - ViewModel - Model)
 - Ktor - HTTP client
+
+## API
+App using that [Bybit API](https://api.bybit.com/v5/announcements/index?locale=en-US&limit=10).
